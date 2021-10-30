@@ -1,0 +1,2 @@
+# shlib
+Shell scripts library
