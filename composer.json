@@ -1,0 +1,7 @@
+{
+    "name": "estaleiroweb/shlib",
+    "description": "Shell/bash Linux scripts library",
+    "type": "library",
+    "version": "1.0.0",
+    "license": "MIT"
+}
